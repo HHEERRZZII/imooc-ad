@@ -37,6 +37,7 @@ public class AccessLogFilter extends ZuulFilter {
         String uri = request.getRequestURI();//得到请求地址
         Long startTime = (Long) context.get("startTime");
         long duration = System.currentTimeMillis() - startTime;
+        //这个意思是一个请求要多少秒！
         log.info("uri: " + uri + ", duration: " + duration / 100 + "ms");
         return null;
     }
