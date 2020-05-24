@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/CommonResponseDataAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/GlobalExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/annotation/IgnoreResponseAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/conf/WebConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/exception/AdException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/vo/CommonResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/imooc-ad-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +150,7 @@
       <workItem from="1590161252403" duration="2347000" />
       <workItem from="1590223521402" duration="387000" />
       <workItem from="1590228421236" duration="3913000" />
-      <workItem from="1590310123886" duration="4727000" />
+      <workItem from="1590310123886" duration="5373000" />
     </task>
     <servers />
   </component>
@@ -181,6 +166,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1590320738126" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1590321506410">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1590321506410" />
     <state x="422" y="136" key="FileChooserDialogImpl" timestamp="1590061198234">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
