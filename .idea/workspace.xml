@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ad-gateway/src/main/java/com/imooc/ad/filter/AccessLogFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ad-gateway/src/main/java/com/imooc/ad/filter/AccessLogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/CommonResponseDataAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/GlobalExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/annotation/IgnoreResponseAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/conf/WebConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/exception/AdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/vo/CommonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/imooc-ad-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1cDDxo8sSoQgamuB0HTBOeftdX4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -149,6 +165,7 @@
       <workItem from="1590161252403" duration="2347000" />
       <workItem from="1590223521402" duration="387000" />
       <workItem from="1590228421236" duration="3913000" />
+      <workItem from="1590310123886" duration="4727000" />
     </task>
     <servers />
   </component>
@@ -160,10 +177,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="65" y="23" key="#Plugins/0.0.1280.760@0.0.1280.760" timestamp="1590055632199" />
-    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1590235208694">
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1590320738126">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1590235208694" />
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1590320738126" />
     <state x="422" y="136" key="FileChooserDialogImpl" timestamp="1590061198234">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -224,21 +241,21 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1590061234501" />
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590223521161">
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590310139323">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590223521161" />
-    <state x="14" y="43" key="new project wizard" timestamp="1590229033946">
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590310139323" />
+    <state x="14" y="30" key="new project wizard" timestamp="1590310734730">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="14" y="43" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1590229033946" />
+    <state x="14" y="30" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1590310734730" />
     <state x="299" y="172" key="run.anything.popup" timestamp="1590158416452">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="299" y="172" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1590158416452" />
-    <state x="674" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1590235589373">
+    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1590311359562">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="674" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1590235589373" />
+    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1590311359562" />
   </component>
 </project>
