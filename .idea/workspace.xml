@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="" />
+    <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/SponsorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CommonStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-ad-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-ad-service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -150,14 +161,31 @@
       <workItem from="1590161252403" duration="2347000" />
       <workItem from="1590223521402" duration="387000" />
       <workItem from="1590228421236" duration="3913000" />
-      <workItem from="1590310123886" duration="5373000" />
+      <workItem from="1590310123886" duration="5485000" />
+      <workItem from="1590395205597" duration="4850000" />
     </task>
+    <task id="LOCAL-00001" summary="idea commit test">
+      <created>1590321530220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590321530220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea commit test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="79" key="#Assign_Data_Sources" timestamp="1590420354350">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="79" key="#Assign_Data_Sources/0.0.1280.760@0.0.1280.760" timestamp="1590420354350" />
     <state x="65" y="23" key="#Plugins" timestamp="1590055632199">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -166,10 +194,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1590320738126" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1590321506410">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1590321529158">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1590321506410" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1590321529158" />
     <state x="422" y="136" key="FileChooserDialogImpl" timestamp="1590061198234">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -230,21 +258,21 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1590061234501" />
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590310139323">
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590395206348">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590310139323" />
-    <state x="14" y="30" key="new project wizard" timestamp="1590310734730">
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590395206348" />
+    <state x="14" y="30" key="new project wizard" timestamp="1590395268433">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="14" y="30" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1590310734730" />
+    <state x="14" y="30" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1590395268433" />
     <state x="299" y="172" key="run.anything.popup" timestamp="1590158416452">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="299" y="172" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1590158416452" />
-    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1590311359562">
+    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1590397420084">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1590311359562" />
+    <state x="675" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1590397420084" />
   </component>
 </project>
