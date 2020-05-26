@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/SponsorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CommonStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CreativeMetrialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CreativeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/Creative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitDistrict.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/CreativeUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-ad-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-ad-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,8 @@
       <workItem from="1590223521402" duration="387000" />
       <workItem from="1590228421236" duration="3913000" />
       <workItem from="1590310123886" duration="5485000" />
-      <workItem from="1590395205597" duration="4850000" />
+      <workItem from="1590395205597" duration="5053000" />
+      <workItem from="1590493925186" duration="5256000" />
     </task>
     <task id="LOCAL-00001" summary="idea commit test">
       <created>1590321530220</created>
@@ -258,10 +260,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1590061234501" />
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590395206348">
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590493924100">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590395206348" />
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590493924100" />
     <state x="14" y="30" key="new project wizard" timestamp="1590395268433">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
