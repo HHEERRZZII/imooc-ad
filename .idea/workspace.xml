@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e33e925-2e29-41fb-93c3-3f5fce573038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CreativeMetrialType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/constant/CreativeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/AdUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/Creative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitDistrict.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/AdUnitKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/entity/unit_condition/CreativeUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/dao/AdPlanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/dao/AdUnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/dao/AdUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java/com/imooc/ad/dao/CreativeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +18,7 @@
       <list>
         <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -164,7 +160,12 @@
       <workItem from="1590228421236" duration="3913000" />
       <workItem from="1590310123886" duration="5485000" />
       <workItem from="1590395205597" duration="5053000" />
-      <workItem from="1590493925186" duration="5256000" />
+      <workItem from="1590493925186" duration="5349000" />
+      <workItem from="1590507382933" duration="19000" />
+      <workItem from="1590507626162" duration="53000" />
+      <workItem from="1590508293610" duration="42000" />
+      <workItem from="1590510939312" duration="18000" />
+      <workItem from="1590591527551" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="idea commit test">
       <created>1590321530220</created>
